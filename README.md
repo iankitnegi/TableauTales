@@ -12,4 +12,3 @@
 10. Advanced techniques, tips and tricks
 11. Sharing your data story
 
-## Creating your first Viz. & Dashboards
