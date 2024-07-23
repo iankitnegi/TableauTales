@@ -1,4 +1,6 @@
 # TableauTales  
+
+### _📚 [My Viz Repository](https://public.tableau.com/app/profile/ankit.negi7687/vizzes)_ 
 ### Table of Contents  
 1. Creating your first Viz. & Dashboards
 2. Working with data in Tableau
