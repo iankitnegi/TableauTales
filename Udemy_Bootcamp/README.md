@@ -8,3 +8,5 @@
 5. Joining, Blending & Relationship, Dual Axis Chart
 6. Table Calculations, Advanced Dashboards, Storytelling
 7. Advanced Data Preparation
+8. Clusters, Custom Territories, Design Features
+9. Tableau Toolkit
