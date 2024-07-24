@@ -17,4 +17,13 @@
 >    - Average Marketing spend per city (Less is better)
 >    - Average ROMI(Return on Marketing Investment) per city (rev/marketing spend)
 > 2. Identify which of the 10 new locations have the best potential for the company to invest more fund into marketing.
-9. Tableau Toolkit
+9. Tableau Toolkit  
+> Challenge I: New York City Parks Safety  
+> We have been hired by a community forum to analyse crime incidents occurring at New York City (NYC) parks. This is in support of their efforts to lobby for safer parks. We need to design an attention-grabbing visualisation which they will use to motivate for more police patrols in NYC public parks.
+> We are required to analyse the crime incidents reported to the New York Police Department (NYPD), which have occurred at NYC parks during the first quarter of 2018. We have been supplied the data, but unfortunately the data is only available in PDF format.  
+Note: Central Park is not included in the review
+>
+> Furthermore, they require the results to be displayed using a map and it needs 
+to include the actual park layout and size.
+Ensure proper use of tooltips and filtering per borough.
+
