@@ -28,3 +28,10 @@ Snowflake Schema: Snowflake schema is a more complex method of storing data in w
    - Blending: Combines data from primary and secondary data sources for visualization, useful when data sources cannot be joined directly.
   
 **Always prefer Relationships & then Data Blending at Viz Level**
+
+Key Concepts:
+- Data Sources (A and B): The origin points of data that can be combined through joins or unions.
+- Join: A method to combine data from two tables based on a related column.
+- Union: A method to append data from one table to another.
+- Relationship: Links two tables based on common fields without merging them.
+- Blending: Integrates data from different sources in the visualization layer. {BY DEFAULT: LEFT JOIN, CAN'T CHANGE}
